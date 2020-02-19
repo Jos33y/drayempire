@@ -120,7 +120,7 @@ if(isset($_GET['pro_id'])){
                 </div>
                   <div class="col-xl-6 col-lg-5">
                     <form class="header-search-form">
-                      <input type="text" placeholder="Search on ddrisworld...">
+                      <input type="text" placeholder="Search on drayempire...">
                       <button><i class="fa fa-search"></i></button>
                     </form>
                 </div>
